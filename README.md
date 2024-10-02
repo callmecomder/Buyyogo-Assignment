@@ -20,8 +20,8 @@ This project provides an API for managing training centers, including features f
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/traini8_registry.git
-   cd traini8_registry
+   git clone https://github.com/yourusername/Backend_Traini8_RaghavSeth.git
+   cd Backend_Traini8_RaghavSeth
 
 2. Create a virtual environment:
    python -m venv venv
